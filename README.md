@@ -4,7 +4,7 @@
 
 ### Concepts:
 
-- This project requires the understanding of fundamental concepts in React Native like state, props, stateful components, stateless components, passing props, decomposing components into more specific and reusable , etc.
+- This project requires the understanding of fundamental concepts in React Native like state, props, stateful components, stateless components, passing props, JSX, Binding, Json, Styling, etc.
 
 - This also requires exposure to Expo app and Expo cli.
 
